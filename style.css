@@ -1,0 +1,201 @@
+/* body{
+font-family: Arial;
+text-decoration-color: white;
+}
+
+.hero{
+padding:10px;
+background:#031712;
+text-decoration-color: white;
+}
+
+.profile-img{
+width:150px;
+height:200px;
+text-decoration-color: white;
+border-radius:500%;
+margin-bottom:20px;
+}
+
+.card{
+margin-top:10px;
+} */
+
+
+/* Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+body{
+font-family: 'Poppins', sans-serif;
+
+/* Premium Gradient Background */
+background: linear-gradient(135deg,#0f2027,#203a43,#2c5364);
+
+color:white;
+min-height:100vh;
+margin:0;
+
+
+
+background: linear-gradient(135deg,#0f2027,#203a43,#2c5364);
+color:white;
+
+}
+
+/* Navbar Enhancement */
+
+.navbar{
+background: linear-gradient(90deg,#141e30,#243b55);
+box-shadow:0 4px 15px rgba(0,0,0,0.5);
+}
+
+.about-text{
+color:white;
+}
+
+
+.skills-text{
+color:white;
+}
+
+/* .card-body{
+color:white;
+} */
+
+
+/* Make all text white in projects page */
+
+.projects-page{
+color:white;
+}
+
+.projects-page h1,
+.projects-page h2,
+.projects-page h3,
+.projects-page h4,
+.projects-page h5,
+.projects-page p,
+.projects-page a{
+color:white;
+}
+
+form input,
+form textarea{
+background:#1e1e1e;
+color:white;
+border:1px solid #555;
+}
+
+form input::placeholder,
+form textarea::placeholder{
+color:#ccc;
+}
+
+body{
+font-family:'Poppins', sans-serif;
+background: linear-gradient(135deg,#0f2027,#203a43,#2c5364);
+color:white;
+}
+
+.resume-page{
+color:white;
+}
+
+/* Card text fix */
+
+.projects-page .card{
+background: rgba(255,255,255,0.05);
+color:white;
+border:none;
+}
+
+.projects-page .card-body{
+color:white;
+}
+
+/* .card{
+margin-top:20px;
+color:white;
+} */
+
+/* Hero Section */
+
+.hero{
+padding:120px 20px;
+text-align:center;
+
+/* Rich Gradient */
+
+background: linear-gradient(135deg,#1f4037,#99f2c8);
+
+border-radius:20px;
+margin:30px;
+box-shadow:0 10px 40px rgba(0,0,0,0.6);
+}
+
+/* Profile Image */
+
+.profile-img{
+width:180px;
+height:200px;
+border-radius:50%;
+object-fit:cover;
+
+border:5px solid white;
+
+box-shadow:0 10px 30px rgba(0,0,0,0.6);
+
+transition:transform 0.4s;
+}
+
+.profile-img:hover{
+transform:scale(1.1);
+}
+
+/* Cards */
+
+.card{
+margin-top:20px;
+border:none;
+
+border-radius:15px;
+
+background: linear-gradient(135deg,#232526,#414345);
+
+color:white;
+
+box-shadow:0 8px 25px rgba(0,0,0,0.6);
+
+transition:transform 0.4s, box-shadow 0.4s;
+}
+
+.card:hover{
+transform:translateY(-10px);
+box-shadow:0 15px 40px rgba(0,0,0,0.8);
+}
+
+/* Buttons */
+
+.btn-primary{
+background:linear-gradient(45deg,#ff512f,#dd2476);
+border:none;
+padding:10px 25px;
+font-weight:500;
+}
+
+.btn-primary:hover{
+background:linear-gradient(45deg,#dd2476,#ff512f);
+}
+
+/* Section Headings */
+
+h1,h2,h3,h4{
+font-weight:600;
+letter-spacing:1px;
+}
+
+/* Smooth Scroll */
+
+html{
+scroll-behavior:smooth;
+}

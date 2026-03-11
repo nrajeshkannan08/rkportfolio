@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>About Me</title>
+<link rel="stylesheet" href="css/style.css">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body>
+
+<!-- <div class="container mt-5"> -->
+    <div class= "container mt-5 about-text">
+
+<h2>About Me</h2>
+
+<p>
+I am Rajesh Kannan, a passionate software developer interested in Python, Web Development, and building scalable applications.
+</p>
+
+<h4>Education</h4>
+
+<ul>
+<li>Bachelor Degree in Electronics & Communication Engineering</li>
+<li>Python Full Stack Training</li>
+</ul>
+
+<h4>Career Objective</h4>
+
+<p>
+To work in an innovative organization where I can improve my skills and contribute to real-world projects.
+</p>
+
+<h4>Areas of Interest</h4>
+
+<ul>
+<li>Web Development</li>
+<li>Python Programming</li>
+<li>Backend Development</li>
+<li>AI & Automation</li>
+</ul>
+
+</div>
+
+</body>
+</html>

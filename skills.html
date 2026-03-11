@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Skills</title>
+
+<link rel="stylesheet" href="css/style.css">
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+<!-- <div class="container mt-5"> -->
+
+<div class="container mt-5 text-white">
+
+<h2>Technical Skills</h2>
+
+<h4>Programming Languages</h4>
+
+<ul>
+    <li>PHP</li>
+<li>Python</li>
+<li>JavaScript</li>
+<li>HTML</li>
+<li>CSS</li>
+</ul>
+
+<h4>Frameworks</h4>
+
+<ul>
+<li>Bootstrap</li>
+<li>Laravel</li>
+<li>Codeigneiter</li>
+<li>Django</li>
+</ul>
+
+<h4>Databases</h4>
+
+<ul>
+<li>MySQL</li>
+<li>SQLite</li>
+<li>MongoDB</li>
+</ul>
+
+<h4>Tools</h4>
+
+<ul>
+<li>Git</li>
+<li>GitHub</li>
+<li>VS Code</li>
+</ul>
+
+</div>
+
+</body>
+</html>
