@@ -1,4 +1,4 @@
-/* body{
+body{
 font-family: Arial;
 text-decoration-color: white;
 }
@@ -19,7 +19,7 @@ margin-bottom:20px;
 
 .card{
 margin-top:10px;
-} */
+}
 
 
 /* Google Font */
@@ -198,4 +198,5 @@ letter-spacing:1px;
 
 html{
 scroll-behavior:smooth;
+
 }
