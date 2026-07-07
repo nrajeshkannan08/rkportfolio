@@ -1,7 +1,7 @@
 <!--Coding GIF and Typing Animation-->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=40&center=true&vCenter=true&width=1200&height=100&lines=Full+Stack+Developer;React.js+%7C+Next.js+%7C+Node.js;Building+Scalable+Web+%26+Mobile+Apps;3%2B+Years+Professional+Experience;Clean+Code+%26+Performance+Optimization;Crafting+Seamless+Digital+Experiences;" alt="Typing Animation">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=40&center=true&vCenter=true&width=1200&height=100&lines=PHP+HTML+CSS+Javascript+Bootsrap+Python+Full+Stack+Developer;React.js+%7C+Next.js+%7C+Node.js;Building+Scalable+Web+%26+Mobile+Apps;3%2B+Years+Professional+Experience;Clean+Code+%26+Performance+Optimization;Crafting+Seamless+Digital+Experiences;" alt="Typing Animation">
   </a>
 </p>
 
