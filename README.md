@@ -145,7 +145,7 @@
     <td width="50%">
   <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
   <p align="center">
-    <a href="https://github.com/mzaiddev">
+    <a href="https://github.com/nrajeshkannan08">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=mzaiddev&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="GitHub Stats" />
     </a>
   </p>
@@ -153,7 +153,7 @@
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/mzaiddev">
+        <a href="https://github.com/nrajeshkannan08">
           <img align="center" src="https://streak-stats.demolab.com?user=mzaiddev&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
         </a>
       </p>
@@ -171,7 +171,7 @@
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
-        <a href="https://github.com/mzaiddev">
+        <a href="[https://github.com/mzaiddev](https://github.com/nrajeshkannan08)">
           <img align="center" src="https://github-contributor-stats.vercel.app/api?username=mzaiddev&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
         </a>
       </p>
@@ -188,7 +188,7 @@
 
 ## 🌟 **Let's Collaborate!**
 
-> Actively seeking exciting opportunities to contribute to meaningful projects and collaborate with passionate developers. Feel free to explore my work here on GitHub, and let's connect on [LinkedIn](https://www.linkedin.com/in/mzaiddev/) or visit my [Portfolio](https://mzaid.site) to discuss potential collaborations!
+> Actively seeking exciting opportunities to contribute to meaningful projects and collaborate with passionate developers. Feel free to explore my work here on GitHub, and let's connect on [LinkedIn](https://www.linkedin.com/in/rajesh-kannan-n-4b6229281/?skipRedirect=true) or visit my [Portfolio](https://nrajeshkannan08.github.io/nrajeshk/index.html) to discuss potential collaborations!
 >
 > Looking forward to making impactful contributions together! 😊✨
 
@@ -210,7 +210,7 @@
 </a>
   
 <a href="mailto:nrkbhivetech2025@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=zaid.dev.wd@gmail.com mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=nrkbhivetech2025@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/rajesh-kannan-n-4b6229281/" target="_blank">
